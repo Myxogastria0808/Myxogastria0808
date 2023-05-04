@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
-![Twitter URL](https://img.shields.io/twitter/url?label=%40yuki_osada0808&style=social&url=https%3A%2F%2Ftwitter.com%2Fyuki_osada0808)
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=%40yuki_osada0808&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fyuki_osada0808)
 
 ## About Me
 Name: Yuki osada
