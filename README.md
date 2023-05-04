@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
+
 ## About Me
 Name: Yuki osada
 <br>
@@ -6,7 +9,6 @@ Contact: r.rstudio.c@gmail.com
 Affiliation: College of Information Science, School Od Informatics, University of Tsukuba
 <br>
 MyHomePage: [yukiosada.work](https://yukiosada.work)
-
 
 <table>
     <tr>
