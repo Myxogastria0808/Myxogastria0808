@@ -1,4 +1,8 @@
 ## About Me
+Name: Yuki osada
+Contact: r.rstudio.c@gmail.com
+Affiliation: College of Information Science, School Od Informatics, University of Tsukuba
+MyHomePage: [yukiosada.work](https://yukiosada.work)
 
 
 <table>
