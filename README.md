@@ -28,5 +28,5 @@ MyWebsite: [yukiosada.work](https://yukiosada.work)
     </tr>
 </table>
 
-## Word Cloud of My Website
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4zT5GOVXco?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Topic News
+[![](https://img.youtube.com/vi/n4zT5GOVXco/0.jpg)](https://www.youtube.com/watch?v=n4zT5GOVXco)
