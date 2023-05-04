@@ -1,3 +1,6 @@
+<script src="https://kit.fontawesome.com/5203c91b44.js" crossorigin="anonymous"></script>
+
+
 ![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
 
@@ -27,5 +30,7 @@ MyHomePage: [yukiosada.work](https://yukiosada.work)
         </td>
     </tr>
 </table>
+
+<script src="https://kit.fontawesome.com/5203c91b44.js" crossorigin="anonymous"></script>
 
 <img src="./img/img.png" width="100%">
