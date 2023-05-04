@@ -10,6 +10,17 @@ Affiliation: College of Information Science, School Od Informatics, University o
 <br>
 MyHomePage: [yukiosada.work](https://yukiosada.work)
 
+## SNS and Blog
+Qiita: [@Yuuki-Osada](https://qiita.com/Yuuki-Osada)
+<br>
+YouTube: [Hello, World!](https://www.youtube.com/channel/UC09Y-MUJbYKQKoFYaenVyhw)
+<br>
+Twitter: [@yuki_osada0808](https://twitter.com/yuki_osada0808)
+<br>
+Facebook: [Hello.0808](https://www.facebook.com/Hello.0808)
+<br>
+Instagram: [hello.the.universe](https://www.instagram.com/hello.the.universe/)
+
 <table>
     <tr>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" width="100%">
