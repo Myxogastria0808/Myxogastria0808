@@ -1,4 +1,4 @@
-<link href="/css/style.css" rel="stylesheet"></link>
+<link href="./css/style.css" rel="stylesheet"></link>
 
 <table>
     <tr>
