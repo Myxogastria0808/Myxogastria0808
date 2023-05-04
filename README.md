@@ -5,7 +5,7 @@
     <tr>
         <td>
             <div align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=Myxogastria0808&count_private=true&show_icons=true&theme=transparent" width="90%">
+                <img src="https://github-readme-stats.vercel.app/api?username=Myxogastria0808&count_private=true&show_icons=true&theme=transparent" width="85%">
             </div>
         </td>
         <td>
