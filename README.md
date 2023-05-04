@@ -4,7 +4,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Myxogastria0808&count_private=true&show_icons=true&theme=transparent" width="90%">
+            <img src="https://github-readme-stats.vercel.app/api?username=Myxogastria0808&count_private=true&show_icons=true&theme=transparent" width="90%" style="margin-right: auto; margin-left: auto;">
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myxogastria0808&layout=compact&theme=transparent" width="100%">
