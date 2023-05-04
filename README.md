@@ -1,5 +1,5 @@
 <table>
-    <tr>
+    <tr width="100%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" width="100%">
     </tr>
     <tr width="100%">
