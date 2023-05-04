@@ -27,6 +27,3 @@ MyWebsite: [yukiosada.work](https://yukiosada.work)
         </td>
     </tr>
 </table>
-
-## Topic News
-[embed](https://www.youtube.com/watch?v=n4zT5GOVXco)
