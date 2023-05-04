@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
+![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
 
 ## About Me
 Name: Yuki osada
