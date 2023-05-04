@@ -1,3 +1,5 @@
+<link href="/css/style.css" rel="stylesheet"></link>
+
 ![No Image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent )
 
 <a href="https://github.com/Myxogastria0808">
@@ -6,3 +8,5 @@
 <a href="https://github.com/Myxogastria0808">
   <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myxogastria0808&layout=compact&theme=transparent" />
 </a>
+
+<div class="lang"></div>
