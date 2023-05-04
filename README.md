@@ -1,7 +1,10 @@
 ## About Me
 Name: Yuki osada
+<br>
 Contact: r.rstudio.c@gmail.com
+<br>
 Affiliation: College of Information Science, School Od Informatics, University of Tsukuba
+<br>
 MyHomePage: [yukiosada.work](https://yukiosada.work)
 
 
