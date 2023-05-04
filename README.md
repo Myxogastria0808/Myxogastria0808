@@ -8,7 +8,7 @@ Contact: r.rstudio.c@gmail.com
 <br>
 Affiliation: College of Information Science, School Od Informatics, University of Tsukuba
 <br>
-MyHomePage: [yukiosada.work](https://yukiosada.work)
+MyWebsite: [yukiosada.work](https://yukiosada.work)
 
 <table>
     <tr>
@@ -28,4 +28,5 @@ MyHomePage: [yukiosada.work](https://yukiosada.work)
     </tr>
 </table>
 
+## Word Cloud of My Website
 <img src="./img/img.png" width="100%">
