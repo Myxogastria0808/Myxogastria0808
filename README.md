@@ -16,4 +16,4 @@
     </tr>
 </table>
 
-<img src="./img/word_cloud_result.png" width="100%">
+<img src="img.png" width="100%">
