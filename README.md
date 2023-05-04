@@ -17,6 +17,8 @@ YouTube: [Hello, World!](https://www.youtube.com/channel/UC09Y-MUJbYKQKoFYaenVyh
 <br>
 Twitter: [@yuki_osada0808](https://twitter.com/yuki_osada0808)
 <br>
+LikedIn: [yuuki-osada](https://www.linkedin.com/in/yuuki-osada/)
+<br>
 Facebook: [Hello.0808](https://www.facebook.com/Hello.0808)
 <br>
 Instagram: [hello.the.universe](https://www.instagram.com/hello.the.universe/)
