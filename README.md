@@ -30,17 +30,22 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,styledcomponents,fastapi,flask,yew,vscode" />
+    <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,styledcomponents,fastapi,flask,yew" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,astro,vite,jest,express,prisma,discordjs,markdown" />
+    <img src="https://skillicons.dev/icons?i=next,react,astro,vite,jest,express,prisma,discordjs,nodejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel,firebase" />
+    <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,blender,vscode,markdown,latex" />
   </a>
 </p>
 
