@@ -2,7 +2,7 @@ name: generate snake animation
 on:
   #cronで自動実行の設定ができる
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 0 * * *"
   #手動でjobを実行できる
   workflow_dispatch:
   #main branchにpushさせるようにする
