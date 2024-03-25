@@ -18,18 +18,16 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 ## My Skills
 
-<p align="center">
-  <h2>Languages</h2>
-</p>
+### Languages
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,r,python,typescript,javascript,html,css" />
   </a>
 </p>
 
-<p align="center">
-  <h2>Others</h2>
-</p>
+### Others
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,fastapi,flask,yew" />
