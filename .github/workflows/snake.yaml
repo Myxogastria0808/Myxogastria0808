@@ -26,5 +26,6 @@ jobs:
             dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Push to GitHub
         uses: EndBug/add-and-commit@main
+        with:
           branch: main
-          message: 'update github-contribution-grid-snake image!'
+          message: "update github-contribution-grid-snake image!"
