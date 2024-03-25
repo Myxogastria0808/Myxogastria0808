@@ -40,12 +40,12 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel,firebase" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,blender,vscode,markdown,latex" />
+    <img src="https://skillicons.dev/icons?i=blender,vscode,markdown,latex,githubactions" />
   </a>
 </p>
 
