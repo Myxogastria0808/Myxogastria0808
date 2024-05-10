@@ -11,7 +11,6 @@
 ## About Me
 
 Name: Yuki osada\
-Contact: r.rstudio.c@gmail.com\
 Affiliation: College of Information Science, School Of Informatics, University of Tsukuba\
 My website: [yukiosada.work](https://yukiosada.work)\
 GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
