@@ -53,9 +53,9 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" />
 </p>
 
-<small style="font-size: 5px;">画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a></small>
+画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a>
 
-<small style="font-size: 5px;">著者名: ティム・カスバートソン (CC BY 4.0に基づいたライセンスの画像を引用しています。) </small>
+著者名: ティム・カスバートソン (CC BY 4.0に基づいたライセンスの画像を引用しています。)
 
 <figure>
 <img src="dist/assets/NewNationalStadium.jpg" alt="New National Stadium" />
