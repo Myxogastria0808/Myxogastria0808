@@ -2,15 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue) [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
 
-<h1 align="center">I❤ Nix and NixOS</h1>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" />
-</p>
-
-<small>画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a></small>
-
-<small>著者名: ティム・カスバートソン (CC BY 4.0　のライセンス表記に基づいた画像を引用しています。) </small>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake" />
@@ -56,6 +47,15 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
     <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel,azure" />
   </a>
 </p>
+
+<h1 align="center">I❤ Nix and NixOS</h1>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" />
+</p>
+
+<small>画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a></small>
+
+<small>著者名: ティム・カスバートソン (CC BY 4.0　のライセンス表記に基づいた画像を引用しています。) </small>
 
 <figure>
 <img src="dist/assets/NewNationalStadium.jpg" alt="New National Stadium" />
