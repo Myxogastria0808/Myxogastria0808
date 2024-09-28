@@ -2,12 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue) [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
 
-<h1 align="center">I❤ NixOS</h1>
+<h1 align="center">I❤ Nix and NixOS</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix" />
-  </a>
+  <img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg" />
 </p>
+
+画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a>
+
+著者名: ティム・カスバートソン (CC BY 4.0　のライセンス表記に基づいた画像を引用しています。) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake-dark.svg" />
