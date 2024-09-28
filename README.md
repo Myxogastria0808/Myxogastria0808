@@ -2,14 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue) [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
 
-<div style="width: 100%;">
-  <h1 align="center">I❤ NixOS</h1>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nix" />
-    </a>
-  </p>
-</div>
+<h1 align="center">I❤ NixOS</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nix" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake-dark.svg" />
