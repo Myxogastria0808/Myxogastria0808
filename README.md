@@ -4,12 +4,12 @@
 
 <h1 align="center">I❤ Nix and NixOS</h1>
 <p align="center">
-  <img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" />
 </p>
 
-画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a>
+<small>画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a></small>
 
-著者名: ティム・カスバートソン (CC BY 4.0　のライセンス表記に基づいた画像を引用しています。) 
+<small>著者名: ティム・カスバートソン (CC BY 4.0　のライセンス表記に基づいた画像を引用しています。) </small>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake-dark.svg" />
