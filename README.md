@@ -29,7 +29,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,vscode,markdown,latex" />
+    <img src="https://skillicons.dev/icons?i=blender,vscode,markdown,latex,githubactions" />
   </a>
 </p>
 <p align="center">
