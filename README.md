@@ -21,7 +21,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,r,python,typescript,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=nix,rust,r,python,typescript,javascript,html,css" />
   </a>
 </p>
 
