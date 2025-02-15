@@ -63,7 +63,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 </figure>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" width="100%;"/>
 </div>
 
 <div style="width: 100%;">
