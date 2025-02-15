@@ -27,31 +27,31 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 ### Others
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,vscode,markdown,latex,githubactions" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=materialui,bootstrap,tailwind,styledcomponents,fastapi,flask,yew" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,react,astro,vite,jest,express,prisma,discordjs,nodejs" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel,azure" />
   </a>
-</p>
+</div>
 
 <h1 align="center">I❤ Nix and NixOS</h1>
-<p align="center">
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" />
-</p>
+</div>
 
 画像引用元: <a href="https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg">https://commons.wikimedia.org/wiki/File:Nix_Snowflake_Logo.svg</a>
 
@@ -62,7 +62,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 <figcaption>New National Stadium</figcaption>
 </figure>
 
-<div style="width: 100%;">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" />
 </div>
 
