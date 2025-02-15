@@ -66,7 +66,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" width=100% />
 </div>
 
-<div width=100%>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=Myxogastria0808&#x26;count_private=true&#x26;show_icons=true&#x26;theme=transparent" alt="" data-size="original" width=50% />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Myxogastria0808&#x26;theme=transparent" alt="" data-size="original" width=50% />
 </div>
