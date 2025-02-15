@@ -58,15 +58,15 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 著者名: ティム・カスバートソン (CC BY 4.0に基づいたライセンスの画像を引用しています。)
 
 <figure>
-<img src="dist/assets/NewNationalStadium.jpg" alt="New National Stadium" />
-<figcaption>New National Stadium</figcaption>
+  <img src="dist/assets/NewNationalStadium.jpg" alt="New National Stadium" width=100% />
+  <figcaption>New National Stadium</figcaption>
 </figure>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" width="100%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Myxogastria0808&theme=transparent" width=100% />
 </div>
 
-<div style="width: 100%;">
+<div width=100%>
   <img src="https://github-readme-stats.vercel.app/api?username=Myxogastria0808&#x26;count_private=true&#x26;show_icons=true&#x26;theme=transparent" alt="" data-size="original" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Myxogastria0808&#x26;theme=transparent" alt="" data-size="original" />
 </div>
