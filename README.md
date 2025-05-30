@@ -101,6 +101,18 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
       </a>
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/ultra-coins/ultra-coins-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultra-coins&repo=ultra-coins-website" alt="ultra-coins-website" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ultra-coins/ultra-coins-blog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultra-coins&repo=ultra-coins-blog" alt="ultra-coins-blog" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td align="center" valign="middle">
       <strong style="font-size: 20px;">still halfway through the journey...</strong>
