@@ -15,7 +15,7 @@ Affiliation: College of Information Science, School Of Informatics, University o
 My website: [yukiosada.work](https://yukiosada.work)\
 GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
-## My Skills
+## Skills
 
 ### Languages
 
@@ -47,6 +47,66 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
     <img src="https://skillicons.dev/icons?i=wasm,docker,mysql,git,github,cloudflare,workers,figma,postman,vercel,azure" />
   </a>
 </div>
+
+### Packages and Products
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Myxogastria0808/cf-r2-sdk">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=cf-r2-sdk" alt="cf-r2-sdk" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Myxogastria0808/dotenv-caster">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=dotenv-caster" alt="dotenv-caster" />
+      </a>
+    </td>
+    <td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Myxogastria0808/rake">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=rake" alt="rake" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Myxogastria0808/mock-filelist">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=mock-filelist" alt="mock-filelist" />
+      </a>
+    </td>
+    <td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Myxogastria0808/data.library">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=data.library" alt="data.library" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Myxogastria0808/dotfiles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=dotfiles" alt="dotfiles" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sohosai/dashi-server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohosai&repo=dashi-server" alt="dashi-server" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/sohosai/dashi-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohosai&repo=dashi-client" alt="dashi-client" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <strong style="font-size: 20px;">still halfway through the journey...</strong>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">I❤ Nix and NixOS</h1>
 <div align="center">
