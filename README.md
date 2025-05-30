@@ -54,12 +54,12 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
   <tr>
     <td>
       <a href="https://github.com/Myxogastria0808/cf-r2-sdk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=cf-r2-sdk" alt="cf-r2-sdk" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=cf-r2-sdk&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="cf-r2-sdk" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Myxogastria0808/dotenv-caster">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=dotenv-caster" alt="dotenv-caster" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=dotenv-caster&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dotenv-caster" />
       </a>
     </td>
     <td>
@@ -67,12 +67,12 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
   <tr>
     <td>
       <a href="https://github.com/Myxogastria0808/rake">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=rake" alt="rake" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=rake&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="rake" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Myxogastria0808/mock-filelist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=mock-filelist" alt="mock-filelist" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=mock-filelist&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="mock-filelist" />
       </a>
     </td>
     <td>
@@ -80,36 +80,36 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
   <tr>
     <td>
       <a href="https://github.com/Myxogastria0808/data.library">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=data.library" alt="data.library" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=data.library&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="data.library" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Myxogastria0808/dotfiles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=dotfiles" alt="dotfiles" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=dotfiles&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dotfiles" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/sohosai/dashi-server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohosai&repo=dashi-server" alt="dashi-server" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohosai&repo=dashi-server&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dashi-server" />
       </a>
     </td>
     <td>
       <a href="https://github.com/sohosai/dashi-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohosai&repo=dashi-client" alt="dashi-client" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohosai&repo=dashi-client&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dashi-client" />
       </a>
     </td>
   </tr>
     <tr>
     <td>
       <a href="https://github.com/ultra-coins/ultra-coins-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultra-coins&repo=ultra-coins-website" alt="ultra-coins-website" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultra-coins&repo=ultra-coins-website&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="ultra-coins-website" />
       </a>
     </td>
     <td>
       <a href="https://github.com/ultra-coins/ultra-coins-blog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultra-coins&repo=ultra-coins-blog" alt="ultra-coins-blog" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultra-coins&repo=ultra-coins-blog&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="ultra-coins-blog" />
       </a>
     </td>
   </tr>
