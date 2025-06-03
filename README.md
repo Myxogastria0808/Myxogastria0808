@@ -114,6 +114,30 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/Myxogastria0808/quarto-websites-template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=quarto-websites-template&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="data.library" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Myxogastria0808/DebtBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=DebtBot&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dotfiles" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Myxogastria0808/DebtBot-on-premises">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=DebtBot-on-premises&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dotfiles" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Myxogastria0808/DebtBot-production">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Myxogastria0808&repo=DebtBot-production&bg_color=0c1016&title_color=4493f8&text_color=9198a1&icon_color=9198a1&border_color=3d444d" alt="dotfiles" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <strong style="font-size: 20px;">still halfway through the journey...</strong>
     </td>
