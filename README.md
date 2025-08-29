@@ -25,6 +25,14 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
   </a>
 </p>
 
+### Leaning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=haskell,idoris,go" />
+  </a>
+</p>
+
 ### Others
 
 <div align="center">
