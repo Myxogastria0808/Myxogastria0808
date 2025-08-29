@@ -29,7 +29,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haskell,go,prolog" />
+    <img src="https://skillicons.dev/icons?i=haskell,go" />
   </a>
 </p>
 
