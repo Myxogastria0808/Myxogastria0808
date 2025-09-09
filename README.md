@@ -1,6 +1,6 @@
 # 👋Hi, I`m Myxogastria0808 (Yuki Osada)
 
-![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue) [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuuki-Osada/posts.svg)](http://qiita.com/Yuuki-Osada)
+![](https://komarev.com/ghpvc/?username=Myxogastria0808&color=blue) [![My Qiita posts](https://qiita-badge.apiapi.app/s/Myxogastria0808/posts.svg)](http://qiita.com/Myxogastria0808)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake-dark.svg" />
