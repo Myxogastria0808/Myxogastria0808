@@ -28,7 +28,7 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 ### Leaning
 
 <p align="center">
-  <p>Lean 4</p>
+  Lean 4
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=haskell,go" />
   </a>
