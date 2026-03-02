@@ -21,15 +21,16 @@ GitHub: [Myxogastria0808](https://github.com/Myxogastria0808/)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,rust,haskell,typescript,javascript,html,css,c,ocaml,r,python,julia,java" />
+    <img src="https://skillicons.dev/icons?i=nix,rust,typescript,javascript,html,css,c,ocaml,r,python,julia,java" />
   </a>
 </p>
 
 ### Leaning
 
 <p align="center">
+  <p>Lean 4</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lean,go" />
+    <img src="https://skillicons.dev/icons?i=haskell,go" />
   </a>
 </p>
 
