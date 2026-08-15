@@ -30,7 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@main
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main
           message: "update github-contribution-grid-snake image!"
